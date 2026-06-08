@@ -1,0 +1,23 @@
+Titre : ⚡ ATS PROMPT 2 — Advanced Meta-Prompt Generator powered by Claude AI
+
+I'm thrilled to share ATS PROMPT 2, a production-ready web interface designed to generate high-fidelity, context-aware, and bias-reduced expert prompts tailored for major LLMs (Claude, GPT-4, Gemini, Mistral).
+
+Too many AI interactions fail because of ambiguous framing or systemic model biases. ATS PROMPT 2 solves this at the prompt architecture level by acting as a deterministic framing engine.
+
+🎛️ Key Features & Architecture:
+
+Tailored Token Activation: Fine-tuned syntax generation based on the specific target platform (optimized for Anthropic Claude system prompts structure).
+
+Bias Mitigation & Critical Thinking: Enforces strict role definitions, objective constraints, and semantic neutrality to eliminate hallucination vectors and cultural/linguistic biases.
+
+Multi-Domain Mapping Matrix: Features built-in parameters for 12 professional micro-verticals (from HIPAA-compliant environments and Python Data Science to complex EN-FR translation logic).
+
+7-Language Localization Pipeline: Native token optimization for international outputs (FR, EN, Wolof, ZH, JA, KO, HI, AR).
+
+Clean Frontend UI/UX: Built with a premium, low-distraction dark theme (Playfair Display & DM Sans), immediate .txt compilation, dynamic skill tags, and a decoupled API panel for custom Anthropic private keys mapping.
+
+The stack focuses on lightweight frontend performance coupled with flexible webhook/API infrastructure, supporting both local mobile wallet runtimes (Wave, Orange Money) and international web payment protocols.
+
+⭐ Star the repo, review the implementation, or launch your 5-day evaluation instance directly from the source!
+
+#PromptEngineering #AnthropicClaude #LLMOptimization #WebDev #AIArchitecture #GitHubOpenSource
